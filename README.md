@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Rishi-10-T/Rishi-10-T/assets/128919213/d21bd492-f3ce-44c0-a110-17099917469a)
+![MasterHead](https://github.com/iAmRishi10/Rishi-10-T/assets/128919213/92ef0449-3acd-462c-88c0-87a1d6df04ab)
 <h1 align="center">Hi 👋, I'm RISHI T</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
